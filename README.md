@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Link text] (https://jwr26.github.io)
+[BLOG](https://jwr26.github.io)
